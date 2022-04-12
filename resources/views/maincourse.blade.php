@@ -17,7 +17,7 @@
                                 </div>
                                 <ul class="list-group list-group-flush ca">
                                     <a href="/course/{{$test->id}}/{{$course->id}}" class="float-right ">
-                                        <img src="{{asset("storage/".$test->img)}}" class="w-100 maincourse" >
+                                        <img src="/{{$test->img}}" class="w-100 maincourse" >
                                     </a>
                                 </ul>
                               
