@@ -5,12 +5,13 @@
 <div class="container bg-light py-5">
     <div class="row">
         <div class="col-1"></div>
-        <div class="col-10">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum blanditiis dolores necessitatibus expedita id accusamus ipsa assumenda praesentium exercitationem aliquid nulla ducimus amet molestiae omnis, accusantium nihil autem in porro.
-            Illum, cupiditate beatae error qui rerum, odio eveniet facere earum, aut itaque dolorum vitae dolorem laudantium quos illo distinctio omnis et repudiandae voluptates fugit pariatur. Praesentium dolor sint laborum aut.
-            Itaque iure adipisci illo error saepe, aut sit. Voluptatibus perferendis in nostrum aspernatur ratione enim nesciunt recusandae explicabo facilis facere quasi aliquid sunt odit optio amet ea, necessitatibus, hic eius.
-            Similique nihil voluptate adipisci est ad molestias blanditiis id, voluptatibus architecto cupiditate ipsa minus veniam tempore optio distinctio vitae repellendus iure corporis suscipit officia magnam! Explicabo animi sint at omnis.
-            Adipisci illum quo aliquid! Doloremque ex adipisci explicabo architecto quisquam molestiae, illum eveniet. Accusantium quasi qui aperiam illo harum voluptates magnam nisi numquam, rem deserunt excepturi architecto illum maiores debitis?
+        <div class="col-10 h3 font-italic ">
+            Կայքի  փուլ առ փուլ շարունակելու է համակարգչային հմտությունների ուսուցանումը։ 
+            Ուսուցման ծրագիրը բազմազան է լինելու. դուք ծանոթանալու եք ալգորիթﬓեր նկարագրելու եղանակներին, տիրապետելու եք համակարգչով նկարելու և տեքստեր հավաքելու նորանոր հնարավորությունների, էլեկտրոնային աղյուսակների օգնությամբ կառուցված դիագրաﬓեր խմբագրելու եղանակներ եք կիրառելու, սովորելու եք ֆունկցիաների վարպետի օգնությամբ աշխատել աղյուսակային տվյալների հետ, ծանոթանալու եք տվյալների հենքերի հետ աշխատելու նոր ﬔթոդների, հարցուﬓերի և ձևերի հետ աշխատանքին, ինչպես նաև Համացանցում աշխատելու որոշ նոր հնարավորությունների։
+Դասագիրքն ուսուﬓասիրելիս դուք կհանդիպեք նոր տերﬕնների, որոնք տպագրված են այլ գույնով, իսկ առարկային վերաբերող հիﬓա- կան նոր հասկացություններն առնված են հատուկ շրջանակների ﬔջ։ Յուրաքանչյուր դասի նյութից հետո զետեղված «Օգտակար է իմանալ» խորագրի ներքո ամփոփված ինֆորմացիան ձեզ կօգնի առավել խորու- թյամբ յուրացնել տվյալ թեման։
+«Հարցեր և առաջադրանքներ» բաժինը ձեզ կօգնի պարզելու, թե որքանով եք յուրացրել դասի նյութը։
+Դասագրքում հատուկ ցուցուﬓեր են տրված նաև լաբորատոր աշխա- տանքների կատարման համար, որոնք ձեզ կօգնեն տիրապետելու համակարգչի ընձեռած զանազան հնարավորությունների։
+
         </div>
         <div class="col-1"></div>
     </div>

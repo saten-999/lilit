@@ -30,6 +30,10 @@ Route::get('/test/{id}', 'TestController@show');
     Route::get('/course',       'CourseController@index');
     Route::get('/course/{d}',   'CourseController@course');
     Route::get('/certificate',   'CourseController@certificate');
+    Route::get('/about',        'HomeController@about');
+    Route::get('/connect',        'HomeController@connect');
+    Route::get('/video',        'VideoController@index');
+    Route::get('/blog',        'BlogController@index');
 // });
 
 

@@ -9,9 +9,9 @@
         </div>
     </div>
     @foreach ($test as $k => $item)
-    <div class="row  py-2">
+    <div class="row  py-2 mt-3">
         <div class="col-2"></div>
-        <div class="col-10">
+        <div class="col-10 h3">
             {{$item['name']}}?
             <br>
             <div class="ml-5">
@@ -21,7 +21,7 @@
                     @if (!$option['is_correct'])
                         <?php $option['is_correct']=0 ?>
                     @endif
-                    <input type="radio" onClick="sel({{$option['is_correct']}},{{$key}},{{$k }})" name="opt{{$k }}">{{$option['answer']}}
+                    <input type="radio" onClick="sel({{$option['is_correct']}},{{$key}},{{$k }})" class="mx-2" name="opt{{$k }}">{{$option['answer']}}
                  </div>
                 @endforeach
             </div>

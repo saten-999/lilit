@@ -53,7 +53,10 @@
                             <a class="nav-link" href="/course">Տեսական </a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="/videos">Վիդեոդասեր</a>
+                            <a class="nav-link" href="/video">Վիդեոդասեր</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="/blog">Հետաքրքիր նյութեր</a>
                           </li>
                           <li class="nav-item">
                             <a class="nav-link" href="/connect">Հետադարձ կապ</a>
